@@ -1,0 +1,20 @@
+Button {
+	-fx-text-fill: rgb(0, 0, 0);
+	-fx-background-color: White;
+    -fx-padding: 6 6 6 6;
+}
+
+.mainButton {
+	-fx-pref-width: 200;
+}
+
+.gameModeButton {
+	-fx-text-fill: rgb(0, 0, 0);
+	-fx-pref-width: 100;
+	-fx-pref-height: 30;
+}
+
+.homeButton {
+	-fx-pref-width: 160;
+}
+
